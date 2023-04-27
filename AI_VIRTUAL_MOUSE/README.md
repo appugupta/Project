@@ -7,11 +7,6 @@ usually be operated with multiple input devices, which may include an
 actual mouse or a computer keyboard. Virtual mouse which uses web
 camera works with the help of different image processing techniques.
 
-
- _Youtube Channel Link: [link](https://www.youtube.com/channel/UCC2aiBrcvFHpb4Rve-eQFBg)_<br>
- _Video Link: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_
-
-
 # How to setup and run
 
   ### Pre-requisites
